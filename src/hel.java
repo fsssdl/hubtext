@@ -3,5 +3,6 @@ public class hel {
         System.out.printf("hellot");
         System.out.println("dier ci tijiao");
         System.out.println("di san ci xiugai");
+        System.out.println("di si qi xiu gai");
     }
 }
